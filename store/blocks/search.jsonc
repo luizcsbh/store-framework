@@ -35,5 +35,15 @@
    "propos": {
      "width": "20%"
    }
- }
+ },
+ "flex-layout.row#left": {
+    "children": [
+      "filter-navigator.v3"
+    ]
+  },
+  "flex-layout.row#right": {
+    "children": [
+      "search-content"
+    ]
+  }
 }
