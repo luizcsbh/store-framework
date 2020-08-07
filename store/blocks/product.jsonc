@@ -28,12 +28,12 @@
       "product-name",
       "product-price",
       "buy-button"
-    ],
-    "product-price": {
-      "props": {
-        "showSavings": true,
-        "showListPrice": true
-      }
+    ]
+  },
+  "product-price": {
+    "props": {
+      "showSavings": true,
+      "showListPrice": true
     }
   }
 }
