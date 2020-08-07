@@ -20,7 +20,7 @@
   },
   "flex-layout.col#right":{
     "props":{
-      "preventVerticalStretch": false,
+      "preventVerticalStretch": true,
       "verticalAlign": "top"
       
     },
@@ -33,7 +33,6 @@
       "props":{
         "showSavings": true,
         "showListPrice":false
-
       }
     }
   }
