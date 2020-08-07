@@ -3,7 +3,7 @@
     "children": [
       "breadcrumb",
       "flex-layout.row#main",
-      "shelt.relatedProducts"
+      "shelf.relatedProducts"
     ]
   },
   "flex-layout.row#main": { 
