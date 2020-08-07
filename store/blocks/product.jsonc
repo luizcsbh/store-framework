@@ -28,10 +28,10 @@
       "product-price",
       "buy-button"
     ],
-    "product-price":{
-      "props":{
+    "product-price": {
+      "props": {
         "showSavings": true,
-        "showListPrice":false
+        "showListPrice": true
       }
     }
   }
