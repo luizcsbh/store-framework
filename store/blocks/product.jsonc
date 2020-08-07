@@ -60,5 +60,10 @@
       "sku-selector",
       "product-quantity"
     ]
+  },
+  "sku-selector": {
+    "props": {
+      "hideImpossibleCombinations": false
+    }
   }
 }
