@@ -63,7 +63,9 @@
   },
   "sku-selector": {
     "props": {
-      "hideImpossibleCombinations": false
+      "hideImpossibleCombinations": false,
+      "name": "image",
+      "showVariationsErrorMessage": true
     }
   }
 }
