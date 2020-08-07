@@ -1,5 +1,12 @@
 {
   "store.search": {
-    "blocks": []
-  }
+    "blocks": [
+      "search-result-layout"
+    ]
+  },
+  "search-result-layout": {
+    "blocks": [
+       "search-result-layout.desktop"
+    ]
+ }
 }
