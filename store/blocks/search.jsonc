@@ -9,6 +9,12 @@
        "search-result-layout.desktop"
     ]
  },
+ "flex-layout.row#top": {
+    "children": [
+      "total-products.v2",
+      "order-by.v2"
+    ]  
+ },
  "search-result-layout.desktop": {
    "children": [
      "breadcrumb.search",
