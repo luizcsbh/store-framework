@@ -29,7 +29,8 @@
     "children": [
       "flex-layout.col#filter",
       "flex-layout.col#search",
-      "flex-layout.col#right"
+      "flex-layout.col#right",
+      "flex-layout.col#left"
     ]
  },
  "flex-layout.col#filter": {
